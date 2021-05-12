@@ -1,0 +1,92 @@
+.box-pai {
+    display: block;
+    width: 90vw;
+    height: 100vh;
+    margin: 10vh auto;
+    padding: 10vh 10vw;
+    background: #e3dddd;
+}
+
+.box-child-1 {
+    width: 80vw;
+    height: 9vh ;
+    border: solid #ff0000;
+    margin-bottom: 5px;
+    
+
+}
+
+.box-child-2 {
+    border: solid #ff0000;;
+    width: 80vw;
+    height: 20vh ;
+    flex-direction: row;
+    display: flex;
+}
+
+.box-child-5 {
+    border: solid #ff0000;
+    width: 13vw;
+    height: 13vh ;
+    margin:auto;
+    
+    
+}
+
+.box-child-6 {
+    border: solid #ff0000;
+    width: 59vw;
+    height: 13vh ;
+    margin:auto;
+    
+
+}
+
+.box-child-3 {
+    border: solid #ff0000;;
+    width: 80vw;
+    height: 20vh ;
+    flex-direction: row;
+    display: flex;
+    margin-top: 5px;
+    
+
+}
+
+.box-child-7 {
+    border: solid #ff0000;
+    width: 13vw;
+    height: 13vh ;
+    margin:auto;
+        
+}
+.box-child-8 {
+    border: solid #ff0000;
+    width: 13vw;
+    height: 13vh ;
+    margin:auto;
+        
+}
+.box-child-9 {
+    border: solid #ff0000;
+    width: 13vw;
+    height: 13vh ;
+    margin:auto;
+        
+}
+.box-child-10 {
+    border: solid #ff0000;
+    width: 13vw;
+    height: 13vh ;
+    margin:auto;
+        
+}
+
+.box-child-4 {
+    border: solid #ff0000;;
+    width: 80vw;
+    height: 20vh ;
+    flex-direction: row;
+    display: flex;
+    margin-top: 5px;
+}
