@@ -19,8 +19,14 @@ h3 {
 
 #container {
     width: 90vw;
-    height: 40vh;
+    height: 50vh;
     margin: 10vh auto;
     padding: 10vh 10vw;
     background: #e3dddd;
+}
+li{
+    color: crimson;
+}
+a{
+    color: crimson;
 }
