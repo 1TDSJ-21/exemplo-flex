@@ -1,0 +1,55 @@
+.box-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    /*
+    flex-direction: row;
+    flex-direction: row-reverse;
+    flex-direction: column;
+    flex-direction: column-reverse;
+    */
+}
+
+.box {
+    display: block;
+    width: 2vw;
+    min-width: 5vw;
+    height: 15vh;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+    color: #fff;
+}
+
+.box-1 {
+    background-color: blueviolet;
+}
+
+.box-2 {
+    background-color: brown;
+}
+
+.box-3 {
+    background-color: crimson;
+}
+
+.box-4 {
+    background-color: darkolivegreen;
+}
+.box-5 {
+    background-color: #765476;
+}
+.box-6 {
+    background-color: #986498;
+}
+.box-7 {
+    background-color: #105841;
+}
+.box-8 {
+    background-color: #058305;
+}
+.box-9 {
+    background-color: #839453;
+}
+.box-10 {
+    background-color: #018270;
+}
